@@ -1,0 +1,14 @@
+C:\Users\karab\OneDrive\Masaüstü\c#\PatikaKutuphane\PatikaKutuphane\bin\Debug\PatikaKutuphane.exe.config
+C:\Users\karab\OneDrive\Masaüstü\c#\PatikaKutuphane\PatikaKutuphane\bin\Debug\PatikaKutuphane.exe
+C:\Users\karab\OneDrive\Masaüstü\c#\PatikaKutuphane\PatikaKutuphane\bin\Debug\PatikaKutuphane.pdb
+C:\Users\karab\OneDrive\Masaüstü\c#\PatikaKutuphane\PatikaKutuphane\obj\Debug\PatikaKutuphane.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\c#\PatikaKutuphane\PatikaKutuphane\obj\Debug\PatikaKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\c#\PatikaKutuphane\PatikaKutuphane\obj\Debug\PatikaKutuphane.exe
+C:\Users\karab\OneDrive\Masaüstü\c#\PatikaKutuphane\PatikaKutuphane\obj\Debug\PatikaKutuphane.pdb
+C:\Users\karab\OneDrive\Masaüstü\PatikaKutuphane\PatikaKutuphane\bin\Debug\PatikaKutuphane.exe.config
+C:\Users\karab\OneDrive\Masaüstü\PatikaKutuphane\PatikaKutuphane\bin\Debug\PatikaKutuphane.exe
+C:\Users\karab\OneDrive\Masaüstü\PatikaKutuphane\PatikaKutuphane\bin\Debug\PatikaKutuphane.pdb
+C:\Users\karab\OneDrive\Masaüstü\PatikaKutuphane\PatikaKutuphane\obj\Debug\PatikaKutuphane.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\PatikaKutuphane\PatikaKutuphane\obj\Debug\PatikaKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\PatikaKutuphane\PatikaKutuphane\obj\Debug\PatikaKutuphane.exe
+C:\Users\karab\OneDrive\Masaüstü\PatikaKutuphane\PatikaKutuphane\obj\Debug\PatikaKutuphane.pdb
